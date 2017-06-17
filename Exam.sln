@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_BindingList", "005_BindingToList\005_BindingList.csproj", "{A5862707-BC28-4BBB-875B-A43874E71BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossNullsMin", "CrossNullsMin\CrossNullsMin\CrossNullsMin.csproj", "{A889F980-617F-4CF9-A23E-642CB13755E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{BAAEE00F-67F3-42DB-AB49-E633DCD18FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchScreen", "TouchScreen\TouchScreen.csproj", "{9ADAF285-C30F-4EA4-A2C2-B61AF34AA276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zip", "Zip\Zip.csproj", "{E9835879-9E32-4839-95B9-E007FAE8C40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkers", "checkers\checkers.csproj", "{9827E9E9-4594-453F-A097-A955C4EC814F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miner", "miner\miner.csproj", "{B24CA536-1BB5-47AB-A27E-7034FB6E29CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5862707-BC28-4BBB-875B-A43874E71BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5862707-BC28-4BBB-875B-A43874E71BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5862707-BC28-4BBB-875B-A43874E71BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5862707-BC28-4BBB-875B-A43874E71BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A889F980-617F-4CF9-A23E-642CB13755E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A889F980-617F-4CF9-A23E-642CB13755E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A889F980-617F-4CF9-A23E-642CB13755E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A889F980-617F-4CF9-A23E-642CB13755E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAEE00F-67F3-42DB-AB49-E633DCD18FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAEE00F-67F3-42DB-AB49-E633DCD18FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAEE00F-67F3-42DB-AB49-E633DCD18FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAEE00F-67F3-42DB-AB49-E633DCD18FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ADAF285-C30F-4EA4-A2C2-B61AF34AA276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADAF285-C30F-4EA4-A2C2-B61AF34AA276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADAF285-C30F-4EA4-A2C2-B61AF34AA276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADAF285-C30F-4EA4-A2C2-B61AF34AA276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9835879-9E32-4839-95B9-E007FAE8C40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9835879-9E32-4839-95B9-E007FAE8C40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9835879-9E32-4839-95B9-E007FAE8C40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9835879-9E32-4839-95B9-E007FAE8C40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9827E9E9-4594-453F-A097-A955C4EC814F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9827E9E9-4594-453F-A097-A955C4EC814F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9827E9E9-4594-453F-A097-A955C4EC814F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9827E9E9-4594-453F-A097-A955C4EC814F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24CA536-1BB5-47AB-A27E-7034FB6E29CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24CA536-1BB5-47AB-A27E-7034FB6E29CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24CA536-1BB5-47AB-A27E-7034FB6E29CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24CA536-1BB5-47AB-A27E-7034FB6E29CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
